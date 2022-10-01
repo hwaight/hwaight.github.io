@@ -7,7 +7,7 @@ author_profile: true
 
 "Media Manipulation (In)visibility in Chinese Newspapers" 
 
-This [paper](https://hwaight.github.io/files/waight_prop_10_2022.pdf) is based on a pre-registered survey experiment with mainland Chinese respondents. I demonstrate that Chinese respondents can distinguish between newspaper articles scripted by the Chinese propaganda apparatus from newspaper articles written by newspapers under their own direction. I also show that Chinese respondents can make these distinctions based on content clues in the text or content of newspaper articles. 
+This [paper](https://hwaight.github.io/files/waight_prop_10_2022.pdf) is based on a pre-registered survey experiment with mainland Chinese respondents. I demonstrate that Chinese respondents can distinguish newspaper articles scripted by the Chinese propaganda apparatus from newspaper articles written by newspapers under their own direction. I also show that Chinese respondents can make these distinctions based on content clues in the text or content of newspaper articles. 
 
 "Decline of the Sociological Imagination? Social Change and Perceptions of Economic Polarization in the United States, 1966-2013" 
 
