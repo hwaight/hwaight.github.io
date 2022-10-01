@@ -16,7 +16,7 @@ Methodologically I use a range of tools, including primary document analysis, in
 
 You can [download my cv here](https://hwaight.github.io/files/waight9_16_2022.pdf)
 
-##Interests
+Interests
 ======
 - Computational social science
 - Media
