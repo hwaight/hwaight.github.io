@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I'm a postdoctoral researcher at the [Center for Social Media and Politics](https://csmapnyu.org/) (CSMaP) at New York University. I received my Ph.D. in May 2022 from the Princeton University [Sociology Department](https://sociology.princeton.edu/). In fall 2024 I will join the University of Oregon [Department of Sociology](https://sociology.uoregon.edu/) as an assistant professor. 
 
-I study the control and reception of information in authoritarian regimes with a particular focus on China. My Ph.D. research investigated the relationship between bureaucratic discretion and the content, amplification, and visibility of state media manipulation in print and digital media in China. In my postdoc I'm tracing the amplification of Chinese and Russian state media internationally in digital news and on social media. 
+I study the control and reception of information in authoritarian regimes with a particular focus on China. My Ph.D. research investigated the relationship between bureaucratic discretion and the content, amplification, and visibility of state media manipulation in print and digital media in China. In my postdoc I'm examining how and when state propaganda gets amplified on news recommender algorithms in China and through generative AI. 
 
 I also have completed and ongoing projects in the sociology of perception, history of social thought, and gendered harassment and social media participation. 
 
