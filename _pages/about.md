@@ -16,7 +16,7 @@ I also have completed and ongoing projects in the sociology of perception, histo
 
 Methodologically I use a range of tools, including primary document analysis, interviews, machine learning, survey experiments, and computational text analysis. I hold a BA in East Asian Studies and an MA in Regional Studies: East Asia, both from Harvard University. 
 
-You can [download my cv here](https://hwaight.github.io/files/waight9_16_2022.pdf)
+You can [download my cv here](https://hwaight.github.io/files/waight7_4_2024.pdf)
 
 Interests
 ======
