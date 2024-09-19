@@ -18,6 +18,8 @@ Methodologically I use a range of tools, including primary document analysis, in
 
 You can [download my cv here](https://hwaight.github.io/files/waight7_7_2024.pdf)
 
+If you are a University of Oregon student and would like to attend my office hours, please use this [link](https://calendly.com/hannah_waight). 
+
 Interests
 ======
 - Computational social science
