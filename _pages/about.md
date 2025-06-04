@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I'm an assistant professor at the University of Oregon [Department of Sociology](https://sociology.uoregon.edu/). I received my Ph.D. in May 2022 from  Princeton University's [Sociology Department](https://sociology.princeton.edu/) and was previously a postdoctoral researcher at the [Center for Social Media and Politics](https://csmapnyu.org/) (CSMaP) at New York University.
 
-I am a political sociologist interested in politics of media and information and their implications for social organization. 
+I am a political sociologist interested in the politics of media and information and their implications for social organization. 
 
 One strand of my work studies the politics of information control in authoritarian regimes, especially China. I measure the existence and amplification of state propaganda in domestic newspapers, global web-based news, and through new digital platforms like generative AI. See my recent article on these topics in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2408260122) (with Yin Yuan, Molly Roberts, and Brandon Stewart). Replication data available [here](https://doi.org/10.7910/DVN/SHT7U4).
 
